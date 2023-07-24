@@ -57,7 +57,7 @@
 
 <br><br>
 ## 📌 서비스 메뉴얼
-[YATA 서비스 매뉴얼 🚀]([https://github.com/codestates-seb/seb41_main_021/files/10608938/21-main.pdf](https://relieved-carol-b8a.notion.site/YA-TA-eae22ece7db14bd5859b9bda653a32e5?pvs=4))
+[YATA 서비스 매뉴얼 🚀](https://relieved-carol-b8a.notion.site/YA-TA-eae22ece7db14bd5859b9bda653a32e5?pvs=4)
 
 <br><br>
 

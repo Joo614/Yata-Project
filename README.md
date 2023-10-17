@@ -11,6 +11,16 @@
 - 배포주소: [yata-tau.vercel.app](https://yata-tau.vercel.app/)🚀 <br>
 
 <br><br>
+## 🔗 내가 작성한 블로깅 링크
+- Redis를 이용한 로그아웃 기능 구현 **[블로깅 - [1](https://velog.io/@wnguswn7/Redis%EB%9E%80-%EB%AC%B4%EC%97%87%EC%9D%BC%EA%B9%8C-Redis%EC%9D%98-%ED%8A%B9%EC%A7%95%EA%B3%BC-%EC%82%AC%EC%9A%A9-%EC%8B%9C-%EC%A3%BC%EC%9D%98%EC%A0%90) , [2](https://velog.io/@wnguswn7/Project-Redis%EB%A1%9C-%EB%A1%9C%EA%B7%B8%EC%95%84%EC%9B%83-%EA%B8%B0%EB%8A%A5-%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0)]**
+- Redis 캐시와 2차 캐시를 통한 성능 개선 **[블로깅 - [1](https://velog.io/@wnguswn7/Project-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EC%97%90%EC%84%9C%EC%9D%98-2%EC%B0%A8-%EC%BA%90%EC%8B%9C-%EB%8F%84%EC%9E%85-%EC%A0%84%ED%9B%84-%EB%B9%84%EA%B5%90) , [2](https://velog.io/@wnguswn7/Hibernate-ehcache%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EC%BA%90%EC%8B%B1)]**
+- 동적 쿼리(QueryDsl) 도입을 통한 성능 개선 **[블로깅 -  [1](https://velog.io/@wnguswn7/QueryDsl%EC%9D%98-%EC%82%AC%EC%9A%A9%EA%B3%BC-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EC%97%90-%EC%A0%81%EC%9A%A9%ED%95%98%EA%B8%B0) , [2](https://velog.io/@wnguswn7/Project-fetchJoin%EC%9C%BC%EB%A1%9C-JPA-N1-%EB%AC%B8%EC%A0%9C-%ED%95%B4%EA%B2%B0%ED%95%98%EA%B8%B0)]**
+- SSE 방식의 알림 서비스 구축 **[블로깅 -  [1](https://velog.io/@wnguswn7/Project-SseEmitter%EB%A1%9C-%EC%95%8C%EB%A6%BC-%EA%B8%B0%EB%8A%A5-%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0)]**
+- Spring AOP를 이용한 기능 분리 (알림 / log) **[블로깅 - [1](https://velog.io/@wnguswn7/Spring-AOPAspect-Oriented-Programming%EB%9E%80) , [2](https://velog.io/@wnguswn7/Spring-AOPAspect-Oriented-Programming-%EC%9A%A9%EC%96%B4-%EC%A0%95%EB%A6%AC) , [3](https://velog.io/@wnguswn7/Project-Custom-Annotaiton%EC%9D%84-%EC%9D%B4%EC%9A%A9%ED%95%98%EC%97%AC-Spring-AOP-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EC%97%90-%EC%A0%81%EC%9A%A9%ED%95%98%EA%B8%B0) , [4](https://velog.io/@wnguswn7/Project-Spring-AOP%EB%A1%9C-%EB%A1%9C%EA%B7%B8-%EC%95%8C%EB%A6%BC-%EA%B8%B0%EB%8A%A5-%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0)]**
+- Spring Batch로 배치 기능 구축 **[블로깅 - [1](https://velog.io/@wnguswn7/%EC%8A%A4%ED%94%84%EB%A7%81-%EB%B0%B0%EC%B9%98Spring-batch%EB%9E%80) , [2](https://velog.io/@wnguswn7/Tasklet-vs-Chunk-%EB%B9%84%EA%B5%90%EC%99%80-%EC%B2%98%EB%A6%AC-%ED%85%8C%EC%8A%A4%ED%8A%B8) , [3](https://velog.io/@wnguswn7/Project-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EC%97%90-Spring-Batch-%EC%A0%81%EC%9A%A9%ED%95%98%EA%B8%B0)]**
+- Toss Payments API 연동 **[블로깅 - [1](https://velog.io/@wnguswn7/%ED%86%A0%EC%8A%A4%ED%8E%98%EC%9D%B4%EB%A8%BC%EC%B8%A0-%EC%97%B0%EB%8F%99%ED%95%98%EA%B8%B0-1-%EA%B2%B0%EC%A0%9C-%ED%9D%90%EB%A6%84) , [2](https://velog.io/@wnguswn7/%ED%86%A0%EC%8A%A4%ED%8E%98%EC%9D%B4%EB%A8%BC%EC%B8%A0-%EC%97%B0%EB%8F%99%ED%95%98%EA%B8%B0-2-%EA%B2%B0%EC%A0%9C-%EC%9A%94%EC%B2%AD) , [3](https://velog.io/@wnguswn7/%ED%86%A0%EC%8A%A4%ED%8E%98%EC%9D%B4%EB%A8%BC%EC%B8%A0-%EC%97%B0%EB%8F%99%ED%95%98%EA%B8%B0-3-%EA%B2%B0%EC%A0%9C-%EC%84%B1%EA%B3%B5%EC%8B%A4%ED%8C%A8) , [4](https://velog.io/@wnguswn7/%ED%86%A0%EC%8A%A4%ED%8E%98%EC%9D%B4%EB%A8%BC%EC%B8%A0-%EC%97%B0%EB%8F%99%ED%95%98%EA%B8%B0-4-%EA%B2%B0%EC%A0%9C-%EC%B7%A8%EC%86%8C-%EA%B2%B0%EC%A0%9C-%EB%82%B4%EC%97%AD-%EC%A1%B0%ED%9A%8C)]**
+
+<br><br>
 
 ## 📌 팀원 소개
 

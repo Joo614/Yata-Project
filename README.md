@@ -14,11 +14,11 @@
 
 ## 📌 팀원 소개
 
-|이현지|위현우|문재웅|유형찬|주현주|김채은|
+|이현지|위현우|문재웅|주현주|유형찬|김채은|
 |:--:|:--:|:--:|:--:|:--:|:--:|
-|<img width="140px" height="140px" src="https://user-images.githubusercontent.com/111180375/216278892-e772974b-31a3-4ba2-9506-a5f660f96036.png">|<img width="140px" height="140px" src="https://user-images.githubusercontent.com/111180375/216279794-f6e3bcb3-751f-4fb4-9689-50bf9b8d85f8.png">|<img  width="140px" height="140px" src="https://user-images.githubusercontent.com/111180375/216280229-a0c7ac13-e8f5-422f-be97-ea374ffa6ff3.jpeg">|<img width="140px" height="140px" src="https://user-images.githubusercontent.com/111180375/216280452-6d8541e2-989a-4aea-94ad-c1eec727c56b.jpeg">|<img width="140px" height="140px" src="https://user-images.githubusercontent.com/111180375/216280732-28eb8724-8fd3-4210-935f-5abbb3a69b59.jpeg">|<img width="140px" height="140px" src="https://user-images.githubusercontent.com/111180375/216280855-59c341b3-2767-4dbb-b5e3-1800e9e436e5.jpeg">|
+|<img width="140px" height="140px" src="https://user-images.githubusercontent.com/111180375/216278892-e772974b-31a3-4ba2-9506-a5f660f96036.png">|<img width="140px" height="140px" src="https://user-images.githubusercontent.com/111180375/216279794-f6e3bcb3-751f-4fb4-9689-50bf9b8d85f8.png">|<img  width="140px" height="140px" src="https://user-images.githubusercontent.com/111180375/216280229-a0c7ac13-e8f5-422f-be97-ea374ffa6ff3.jpeg">|<img width="140px" height="140px" src="https://user-images.githubusercontent.com/111180375/216280732-28eb8724-8fd3-4210-935f-5abbb3a69b59.jpeg">|<img width="140px" height="140px" src="https://user-images.githubusercontent.com/111180375/216280452-6d8541e2-989a-4aea-94ad-c1eec727c56b.jpeg">|<img width="140px" height="140px" src="https://user-images.githubusercontent.com/111180375/216280855-59c341b3-2767-4dbb-b5e3-1800e9e436e5.jpeg">|
 |FE(팀장)|FE|FE|BE|BE|BE|
-|[Hyunji0911](https://github.com/Hyunji0911)|[wihyun](https://github.com/wihyun)|[mjwoong](https://github.com/mjwoong)|[gudcks0305](https://github.com/gudcks0305)|[Joo614](https://github.com/Joo614)|[Chaeeunm](https://github.com/Chaeeunm)|
+|[Hyunji0911](https://github.com/Hyunji0911)|[wihyun](https://github.com/wihyun)|[mjwoong](https://github.com/mjwoong)|[Joo614](https://github.com/Joo614)|[gudcks0305](https://github.com/gudcks0305)|[Chaeeunm](https://github.com/Chaeeunm)|
 
 <br><br>
 

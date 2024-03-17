@@ -7,8 +7,9 @@
 
 ## 💻 개요
 - 프로젝트 명: YATA (야 타)
-- 프로젝트 기간: 2023.01.03 ~ 2023.02.03
-- 배포주소: [yata-tau.vercel.app](https://yata-tau.vercel.app/)🚀 <br>
+- 프로젝트 기간 : 2023.01.03 ~ 2023.02.03
+- 배포주소 : [yata-tau.vercel.app](https://yata-tau.vercel.app/)🚀 <br>
+- 서비스 메뉴얼 : [YATA 서비스 매뉴얼 🚀](https://relieved-carol-b8a.notion.site/YA-TA-eae22ece7db14bd5859b9bda653a32e5?pvs=4)
 
 <br><br>
 ## 🔗 내가 작성한 블로깅 링크
@@ -62,12 +63,7 @@
 
 <br><br>
 ## 📌 BE ARCHITECTURE
-
 ![Untitled-2023-01-27-0035.excalidraw.svg](readME_Images%2FUntitled-2023-01-27-0035.excalidraw.svg)
-
-<br><br>
-## 📌 서비스 메뉴얼
-[YATA 서비스 매뉴얼 🚀](https://relieved-carol-b8a.notion.site/YA-TA-eae22ece7db14bd5859b9bda653a32e5?pvs=4)
 
 <br><br>
 

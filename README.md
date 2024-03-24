@@ -12,7 +12,7 @@
 - 서비스 메뉴얼 : [YATA 서비스 매뉴얼 🚀](https://relieved-carol-b8a.notion.site/YA-TA-eae22ece7db14bd5859b9bda653a32e5?pvs=4)
 
 <br><br>
-## 🔗 내가 작성한 블로깅 링크
+## 🔗 블로깅 링크
 - Redis를 이용한 로그아웃 기능 구현 **[블로깅 - [1](https://velog.io/@wnguswn7/Redis%EB%9E%80-%EB%AC%B4%EC%97%87%EC%9D%BC%EA%B9%8C-Redis%EC%9D%98-%ED%8A%B9%EC%A7%95%EA%B3%BC-%EC%82%AC%EC%9A%A9-%EC%8B%9C-%EC%A3%BC%EC%9D%98%EC%A0%90) , [2](https://velog.io/@wnguswn7/Project-Redis%EB%A1%9C-%EB%A1%9C%EA%B7%B8%EC%95%84%EC%9B%83-%EA%B8%B0%EB%8A%A5-%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0)]**
 - Redis 캐시와 2차 캐시를 통한 성능 개선 **[블로깅 - [1](https://velog.io/@wnguswn7/Project-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EC%97%90%EC%84%9C%EC%9D%98-2%EC%B0%A8-%EC%BA%90%EC%8B%9C-%EB%8F%84%EC%9E%85-%EC%A0%84%ED%9B%84-%EB%B9%84%EA%B5%90) , [2](https://velog.io/@wnguswn7/Hibernate-ehcache%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EC%BA%90%EC%8B%B1)]**
 - 동적 쿼리(QueryDsl) 도입을 통한 성능 개선 **[블로깅 -  [1](https://velog.io/@wnguswn7/QueryDsl%EC%9D%98-%EC%82%AC%EC%9A%A9%EA%B3%BC-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EC%97%90-%EC%A0%81%EC%9A%A9%ED%95%98%EA%B8%B0) , [2](https://velog.io/@wnguswn7/Project-fetchJoin%EC%9C%BC%EB%A1%9C-JPA-N1-%EB%AC%B8%EC%A0%9C-%ED%95%B4%EA%B2%B0%ED%95%98%EA%B8%B0)]**
